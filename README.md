@@ -44,6 +44,7 @@
 |PASCAL VOC|The pascal visual object classes challenge: A retrospective|IJCV 2015|
 |Synthia|The synthia dataset: A large collection of synthetic images for semantic segmentation of urban scenes|CVPR 2016|
 |SiftFlow|Nonparametric scene parsing: Label transfer via dense scene alignment|CVPR 2009|
+|NYU v2|Indoor Segmentation and Support Inference from RGBD Images|ECCV 2012|
 
 # Framework
 |Alias|Title|Year|
