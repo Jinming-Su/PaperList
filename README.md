@@ -45,13 +45,25 @@
 |Synthia|The synthia dataset: A large collection of synthetic images for semantic segmentation of urban scenes|CVPR 2016|
 |SiftFlow|Nonparametric scene parsing: Label transfer via dense scene alignment|CVPR 2009|
 
-Conference
+# Framework
+|Alias|Title|Year|
+|---|---|---|
+||Decaf: A deep convolutional activation feature for generic visual recognition|ICML|
+||Caffe: Convolutional architecture for fast feature embedding|ACM MM|
+
+# ICCV 2017
+|Alias|Title|Year|
+|---|---|---|
+||DualNet: Learn Complementary Features for Image Recognition|ICCV 2017|
+
+# Conference
 |name|
 |---|
 |NIPS|
 |ICLR|
 |ICML|
 |AAAI|
+|ACM MM|
 
 # conference
 |name|submition deadline|when|where|website|
