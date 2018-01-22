@@ -41,6 +41,11 @@
 |---|---|---|
 ||DualNet: Learn Complementary Features for Image Recognition|ICCV 2017|
 
+### trick
+|Alias|Title|Year|
+|---|---|---|
+||data Augmentation by Pairing Samples for Images Classification|ICLR 2018|
+
 ### Metric
 |Alias|Title|Year|
 |---|---|---|
