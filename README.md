@@ -30,6 +30,9 @@
 ||Primary Video Object Segmentation via Complementary CNNs and Neighborhood Reversible Flow|ICCV 2017|
 
 ### Semantic Segmentation
+|Alias|Title|Year|
+|---|---|---|
+|FCN|Fully Convolutional Networks for Semantic Segmentation|CVPR 2015|
 
 ### RNN
 |Alias|Title|Year|
@@ -38,8 +41,10 @@
 
 ### ICCV 2017
 |Alias|Title|Year|
-|---|---|---|
-||DualNet: Learn Complementary Features for Image Recognition|ICCV 2017|
+|---|---|---|  
+||DualNet: Learn Complementary Features for Image Recognition||  
+|Netwarp|Semantic Video CNNs through Representation Warping|oral|  
+||Predicting Deeper into the future of Semantic Segmentation||  
 
 ### trick
 |Alias|Title|Year|
