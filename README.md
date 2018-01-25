@@ -30,9 +30,10 @@
 ||Primary Video Object Segmentation via Complementary CNNs and Neighborhood Reversible Flow|ICCV 2017|
 
 ### Semantic Segmentation
-|Alias|Title|Year|
-|---|---|---|
-|FCN|Fully Convolutional Networks for Semantic Segmentation|CVPR 2015|
+|Alias|Title|Year|  
+|---|---|---|  
+|FCN|Fully Convolutional Networks for Semantic Segmentation|CVPR 2015|  
+|fcCRF|Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials|NIPS 2011, CVPR 2012|  
 
 ### RNN
 |Alias|Title|Year|
