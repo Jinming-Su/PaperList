@@ -34,6 +34,7 @@
 |---|---|---|  
 |FCN|Fully Convolutional Networks for Semantic Segmentation|CVPR 2015|  
 |fcCRF|Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials|NIPS 2011, CVPR 2012|  
+||Learning Hierarchical Features for Scene Labeling|TPAMI 2013, ICML 2012|  
 
 ### RNN
 |Alias|Title|Year|
