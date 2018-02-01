@@ -22,7 +22,8 @@
 |SPPNet|Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition|ECCV 2014|
 |Fast R-Cnn|Fast R-CNN|ICCV 2015|
 |Faster R-Cnn|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|NIPS2015, TPAMI 2017|
-|Mask R-Cnn|Mask R-CNN|ICCV 2017, best paper|
+|Mask R-Cnn|Mask R-CNN|ICCV 2017, best paper|  
+|SDS|Simultaneous Detection and Segmentation|ECCV2014|  
 
 ### Object Segmentation
 |Alias|Title|Year|
