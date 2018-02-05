@@ -36,6 +36,7 @@
 |FCN|Fully Convolutional Networks for Semantic Segmentation|CVPR 2015|  
 |fcCRF|Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials|NIPS 2011, CVPR 2012|  
 ||Learning Hierarchical Features for Scene Labeling|TPAMI 2013, ICML 2012|  
+|SDN|Stacked Deconvolutional Network for Semantic Segmentation|2017|  
 
 ### RNN
 |Alias|Title|Year|
@@ -43,11 +44,18 @@
 |LRCN|Long-term recurrent convolutional networks for visual recognition and description|CVPR 2015|
 
 ### ICCV 2017
-|Alias|Title|Year|
+|Alias|Title|Other|  
 |---|---|---|  
 ||DualNet: Learn Complementary Features for Image Recognition||  
 |Netwarp|Semantic Video CNNs through Representation Warping|oral|  
 ||Predicting Deeper into the future of Semantic Segmentation||  
+|DIS|Deep Dual Learning for Semantic Image Segmentation||  
+
+### Other  
+|Alias|Title|Year|  
+|---|---|---|  
+||Relative Attributes|ICCV 2011, Marr Prize Paper|  
+||Deep Relative Attributes|TMM 2016|  
 
 ### trick
 |Alias|Title|Year|
