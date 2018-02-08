@@ -1,19 +1,20 @@
 # Paper List
 
 ### Classification
-|Alias|Title|Year|
-|---|---|---|
-|AlexNet|ImageNet Classification with Deep Convolutional Neural Networks|NIPS 2012|
-|ZFNet|Visualizing and Understanding Convolutional Networks|ECCV 2014|
-|VGG|Very Deep Convolutional Networks for Large-Scale Image Recognition|ICLR 2015|
-|GoogLeNet, Inception v1|Going deeper with convolutions|CVPR 2015|
-|NIN|Network in Network|ICLR 2014|
-|ResNet|Deep Residual Learning for Image Recognition|CVPR 2016, best paper|
-|DenseNet|Densely Connected Convolutional Networks|CVPR 2017, best paper|
-|SENet|Squeeze-and-Excitation Networks|CVPR 2017|
-|Inception v2|Batch normalization: Accelerating deep network training by reducing internal covariate shift|ICML 2015|
-|Inception v3|Rethinking the inception architecture for computer vision|CVPR 2016|
-|Inception v4|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|AAAI 2017|
+|Alias|Title|Year|  
+|---|---|---|  
+|AlexNet|ImageNet Classification with Deep Convolutional Neural Networks|NIPS 2012|  
+|ZFNet|Visualizing and Understanding Convolutional Networks|ECCV 2014|  
+|VGG|Very Deep Convolutional Networks for Large-Scale Image Recognition|ICLR 2015|  
+|GoogLeNet, Inception v1|Going deeper with convolutions|CVPR 2015|  
+|NIN|Network in Network|ICLR 2014|  
+|ResNet|Deep Residual Learning for Image Recognition|CVPR 2016, best paper|  
+||Deep networks with stochastic depth|ECCV 2016|  
+|DenseNet|Densely Connected Convolutional Networks|CVPR 2017, best paper|  
+|SENet|Squeeze-and-Excitation Networks|CVPR 2017|  
+|Inception v2|Batch normalization: Accelerating deep network training by reducing internal covariate shift|ICML 2015|  
+|Inception v3|Rethinking the inception architecture for computer vision|CVPR 2016|  
+|Inception v4|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|AAAI 2017|  
 
 ### Object Detection
 |Alias|Title|Year|
@@ -43,6 +44,11 @@
 |---|---|---|
 |LRCN|Long-term recurrent convolutional networks for visual recognition and description|CVPR 2015|
 
+### Learning Theory
+|Alias|Title|Year|  
+|---|---|---|  
+||Residual networks behave like ensembles of rlatively shallow networks|NIPS 2016|  
+
 ### ICCV 2017
 |Alias|Title|Other|  
 |---|---|---|  
@@ -50,6 +56,12 @@
 |Netwarp|Semantic Video CNNs through Representation Warping|oral|  
 ||Predicting Deeper into the future of Semantic Segmentation||  
 |DIS|Deep Dual Learning for Semantic Image Segmentation||  
+
+### CVPR 2017
+|Alias|Title|Other|  
+|---|---|---|  
+|PSPNet|Pyramid Scene Parsing Network||  
+|IDW-CNN|Learning object interactions and descriptions for semantic image segmentation||  
 
 ### Other  
 |Alias|Title|Year|  
