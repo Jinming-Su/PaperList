@@ -15,6 +15,7 @@
 |Inception v2|Batch normalization: Accelerating deep network training by reducing internal covariate shift|ICML 2015|  
 |Inception v3|Rethinking the inception architecture for computer vision|CVPR 2016|  
 |Inception v4|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|AAAI 2017|  
+||Residual attention network for image classification|CVPR 2017|
 
 ### Object Detection
 |Alias|Title|Year|
