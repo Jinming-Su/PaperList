@@ -38,6 +38,7 @@
 |fcCRF|Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials|NIPS 2011, CVPR 2012|  
 ||Learning Hierarchical Features for Scene Labeling|TPAMI 2013, ICML 2012|  
 |SDN|Stacked Deconvolutional Network for Semantic Segmentation|2017|  
+|U-Net|U-Net: Convolutional Networks for Biomedical Image Segmentation|ICMICCAI 2015|
 
 ### RNN
 |Alias|Title|Year|
