@@ -39,8 +39,11 @@
 |fcCRF|Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials|NIPS 2011, CVPR 2012|  
 ||Learning Hierarchical Features for Scene Labeling|TPAMI 2013, ICML 2012|  
 |SDN|Stacked Deconvolutional Network for Semantic Segmentation|2017|  
-|U-Net|U-Net: Convolutional Networks for Biomedical Image Segmentation|ICMICCAI 2015|
-
+|U-Net|U-Net: Convolutional Networks for Biomedical Image Segmentation|ICMICCAI 2015|  
+|ParseNet|ParseNet: Looking Wider to See Better|ICLR 2016|  
+||Recurrent Convolutional Neural Networks for Scene Labeling|ICML 2014|  
+|zoom-out|Feedforward semantic segmentation with zoom-out features|CVPR 2015|
+  
 ### RNN
 |Alias|Title|Year|
 |---|---|---|
