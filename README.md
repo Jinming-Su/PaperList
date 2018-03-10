@@ -15,7 +15,9 @@
 |Inception v2|Batch normalization: Accelerating deep network training by reducing internal covariate shift|ICML 2015|  
 |Inception v3|Rethinking the inception architecture for computer vision|CVPR 2016|  
 |Inception v4|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|AAAI 2017|  
-||Residual attention network for image classification|CVPR 2017|
+||Residual attention network for image classification|CVPR 2017|  
+|Xception|Xception: deep learning with depthwise separable convolutions|CVPR 2017|  
+||DualNet: Learn Complementary Features for Image Recognition|ICCV 2017|  
 
 ### Object Detection
 |Alias|Title|Year|
@@ -42,7 +44,17 @@
 |U-Net|U-Net: Convolutional Networks for Biomedical Image Segmentation|ICMICCAI 2015|  
 |ParseNet|ParseNet: Looking Wider to See Better|ICLR 2016|  
 ||Recurrent Convolutional Neural Networks for Scene Labeling|ICML 2014|  
-|zoom-out|Feedforward semantic segmentation with zoom-out features|CVPR 2015|
+|zoom-out|Feedforward semantic segmentation with zoom-out features|CVPR 2015|  
+|DeconvNet|Learning Deconvolution Network for Semantic Segmentation|ICCV 2015|  
+|Deeplab v1|Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs|ICLR 2015|  
+|Deeplab v2|DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs |TPAMI 2017|  
+|Deeplab v3|Rethinking Atrous Convolution for Semantic Image Segmentation||  
+|Deeplab v3+|Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation||  
+|Netwarp|Semantic Video CNNs through Representation Warping|ICCV 2017, oral|  
+||Predicting Deeper into the future of Semantic Segmentation|ICCV 2017|  
+|DIS|Deep Dual Learning for Semantic Image Segmentation|ICCV 2017|  
+|PSPNet|Pyramid Scene Parsing Network|CVPR 2017|  
+|IDW-CNN|Learning object interactions and descriptions for semantic image segmentation|CVPR 2017|  
   
 ### RNN
 |Alias|Title|Year|
@@ -53,20 +65,6 @@
 |Alias|Title|Year|  
 |---|---|---|  
 ||Residual networks behave like ensembles of rlatively shallow networks|NIPS 2016|  
-
-### ICCV 2017
-|Alias|Title|Other|  
-|---|---|---|  
-||DualNet: Learn Complementary Features for Image Recognition||  
-|Netwarp|Semantic Video CNNs through Representation Warping|oral|  
-||Predicting Deeper into the future of Semantic Segmentation||  
-|DIS|Deep Dual Learning for Semantic Image Segmentation||  
-
-### CVPR 2017
-|Alias|Title|Other|  
-|---|---|---|  
-|PSPNet|Pyramid Scene Parsing Network||  
-|IDW-CNN|Learning object interactions and descriptions for semantic image segmentation||  
 
 ### Other  
 |Alias|Title|Year|  
