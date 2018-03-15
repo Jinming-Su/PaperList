@@ -55,6 +55,9 @@
 |DIS|Deep Dual Learning for Semantic Image Segmentation|ICCV 2017|  
 |PSPNet|Pyramid Scene Parsing Network|CVPR 2017|  
 |IDW-CNN|Learning object interactions and descriptions for semantic image segmentation|CVPR 2017|  
+|SGN|SGN: Sequential Grouping Networks for Instance Segmentation|ICCV 2017|  
+|GCPNet|Scene Parsing with Global Context Embedding|ICCV 2017|  
+|FoveaNet|FoveaNet: Perspective-aware Urban Scene Parsing|ICCV 2017|  
   
 ### RNN
 |Alias|Title|Year|
