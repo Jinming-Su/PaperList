@@ -58,6 +58,16 @@
 |SGN|SGN: Sequential Grouping Networks for Instance Segmentation|ICCV 2017|  
 |GCPNet|Scene Parsing with Global Context Embedding|ICCV 2017|  
 |FoveaNet|FoveaNet: Perspective-aware Urban Scene Parsing|ICCV 2017|  
+
+### Face Recognition
+|Alias|Title|Year|  
+|---|---|---|  
+||Bayesian Face Revisited A Joint Formulation|ECCV 2012|  
+|Deepid1|Deep Learning Face Representation from Predicting 10,000 Classes|CVPR 2014|  
+|Deepid2|Deep Learning Face Representation by Joint Identification-Verification|NIPS 2014|  
+|Deepid2+|Deeply learned face representations are sparse, selective, and robust|CVPR 2015|  
+|Deepid3|DeepID3 Face Recognition with Very Deep Neural Networks|Computer Science 2015|  
+|FaceNet|FaceNet A Unified Embedding for Face Recognition and Clustering|CVPR 2015|  
   
 ### RNN
 |Alias|Title|Year|
