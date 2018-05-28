@@ -1,23 +1,23 @@
 # Paper List
 
 ### Classification
-|Alias|Title|Year|  
-|---|---|---|  
-|AlexNet|ImageNet Classification with Deep Convolutional Neural Networks|NIPS 2012|  
-|ZFNet|Visualizing and Understanding Convolutional Networks|ECCV 2014|  
-|VGG|Very Deep Convolutional Networks for Large-Scale Image Recognition|ICLR 2015|  
-|GoogLeNet, Inception v1|Going deeper with convolutions|CVPR 2015|  
-|NIN|Network in Network|ICLR 2014|  
-|ResNet|Deep Residual Learning for Image Recognition|CVPR 2016, best paper|  
-||Deep networks with stochastic depth|ECCV 2016|  
-|DenseNet|Densely Connected Convolutional Networks|CVPR 2017, best paper|  
-|SENet|Squeeze-and-Excitation Networks|CVPR 2017|  
-|Inception v2|Batch normalization: Accelerating deep network training by reducing internal covariate shift|ICML 2015|  
-|Inception v3|Rethinking the inception architecture for computer vision|CVPR 2016|  
-|Inception v4|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|AAAI 2017|  
-||Residual attention network for image classification|CVPR 2017|  
-|Xception|Xception: deep learning with depthwise separable convolutions|CVPR 2017|  
-||DualNet: Learn Complementary Features for Image Recognition|ICCV 2017|  
+|Alias|Title|Year|Code|  
+|---|---|---|---|  
+|AlexNet|ImageNet Classification with Deep Convolutional Neural Networks|NIPS 2012|tf: http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/|  
+|ZFNet|Visualizing and Understanding Convolutional Networks|ECCV 2014||  
+|VGG|Very Deep Convolutional Networks for Large-Scale Image Recognition|ICLR 2015||  
+|GoogLeNet, Inception v1|Going deeper with convolutions|CVPR 2015||  
+|NIN|Network in Network|ICLR 2014||  
+|ResNet|Deep Residual Learning for Image Recognition|CVPR 2016, best paper||  
+||Deep networks with stochastic depth|ECCV 2016||  
+|DenseNet|Densely Connected Convolutional Networks|CVPR 2017, best paper||  
+|SENet|Squeeze-and-Excitation Networks|CVPR 2017||  
+|Inception v2|Batch normalization: Accelerating deep network training by reducing internal covariate shift|ICML 2015||  
+|Inception v3|Rethinking the inception architecture for computer vision|CVPR 2016||  
+|Inception v4|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|AAAI 2017||  
+||Residual attention network for image classification|CVPR 2017||  
+|Xception|Xception: deep learning with depthwise separable convolutions|CVPR 2017||  
+||DualNet: Learn Complementary Features for Image Recognition|ICCV 2017||  
 
 ### Object Detection
 |Alias|Title|Year|
