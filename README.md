@@ -66,7 +66,7 @@
 |SqueezeNet|SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size|ICLR 2017|  
 |Xception|Xception: Deep Learning with Depthwise Separable Convolutions|CVPR 2017|  
 |MobileNet v1|MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications|CVPR 2017|  
-|ShuffleNet|ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices|CVPR 2017|  
+|ShuffleNet|ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices||  
 |MobileNet v2|MobileNetV2: Inverted Residuals and Linear Bottlenecks||  
 
 ### Face Recognition
@@ -78,6 +78,11 @@
 |Deepid2+|Deeply learned face representations are sparse, selective, and robust|CVPR 2015|  
 |Deepid3|DeepID3 Face Recognition with Very Deep Neural Networks|Computer Science 2015|  
 |FaceNet|FaceNet A Unified Embedding for Face Recognition and Clustering|CVPR 2015|  
+
+### image processing
+|Alias|Title|Year|  
+|---|---|---|  
+||A Neural Algorithm of Artistic Style|2015|  
 
 ### RNN
 |Alias|Title|Year|
