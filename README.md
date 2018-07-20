@@ -59,6 +59,12 @@
 |SGN|SGN: Sequential Grouping Networks for Instance Segmentation|ICCV 2017|  
 |GCPNet|Scene Parsing with Global Context Embedding|ICCV 2017|  
 |FoveaNet|FoveaNet: Perspective-aware Urban Scene Parsing|ICCV 2017|  
+|synthetic, unsupervised|Effective Use of Synthetic Data for Urban Scene Semantic Segmentation|ECCV 2018|  
+
+### panoptic segmentation
+|Alias|Title|Year|  
+|---|---|---|  
+||panoptic segmentation|arxiv 2018.4|  
 
 ### Lightweight
 |Alias|Title|Year|  
@@ -85,9 +91,17 @@
 ||A Neural Algorithm of Artistic Style|2015|  
 
 ### RNN
-|Alias|Title|Year|
-|---|---|---|
-|LRCN|Long-term recurrent convolutional networks for visual recognition and description|CVPR 2015|
+|Alias|Title|Year|  
+|---|---|---|  
+|LRCN|Long-term recurrent convolutional networks for visual recognition and description|CVPR 2015|  
+
+### GAN  
+|Alias|Title|Year|  
+|---|---|---|  
+|GAN|Generative Adversarial Nets|NIPS 2014|  
+|DCGAN|Unsupervised Representations Learning With Deep Convolutional Generative Adversarial Networks|ICLR 2016|  
+||Face Aging with Contextual Generative Adversarial Nets|MM 2017|  
+||Cross-domain Human Parsing via Adversarial Feature and Label Adaptation|AAAI 2018|  
 
 ### Learning Theory
 |Alias|Title|Year|  
